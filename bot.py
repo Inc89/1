@@ -1,12 +1,3 @@
-import telebot
-
-bot = telebot.TeleBot("")
-
-@bot.message_handler(commands=['start'])
-def send_welcome(message):
-    bot.reply_to(message, "Привет чувак")
-
-bot.polling()
 
 import telebot
 
