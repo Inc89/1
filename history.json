@@ -775,6 +775,46 @@
    "niche": "Жизнь в отдалённых местах",
    "language": "en",
    "shownAt": "2026-10-10"
+  },
+  {
+   "channelId": "UCwuC0wekUDxdt9KuUyQK4Ng",
+   "name": "SPQR Chronicles",
+   "url": "https://www.youtube.com/channel/UCwuC0wekUDxdt9KuUyQK4Ng",
+   "niche": "Жизнь римского солдата",
+   "language": "en",
+   "shownAt": "2026-10-10"
+  },
+  {
+   "channelId": "UC7yGCnlEOnXQOHXMn8ofVyQ",
+   "name": "Heartelle Drama",
+   "url": "https://www.youtube.com/channel/UC7yGCnlEOnXQOHXMn8ofVyQ",
+   "niche": "AI-романтические драмы",
+   "language": "en",
+   "shownAt": "2026-10-10"
+  },
+  {
+   "channelId": "UCUF0syA8GowVcqZIoyBsD0Q",
+   "name": "Umbral del Saber",
+   "url": "https://www.youtube.com/channel/UCUF0syA8GowVcqZIoyBsD0Q",
+   "niche": "Мегатехника изнутри",
+   "language": "es",
+   "shownAt": "2026-10-10"
+  },
+  {
+   "channelId": "UCLnhucfjSelkHNAE7gkVLrw",
+   "name": "С чего вдруг?",
+   "url": "https://www.youtube.com/channel/UCLnhucfjSelkHNAE7gkVLrw",
+   "niche": "Истории брендов",
+   "language": "ru",
+   "shownAt": "2026-10-10"
+  },
+  {
+   "channelId": "UC76Q85ikMgxvCI5J2uJm3Lg",
+   "name": "Incognito files",
+   "url": "https://www.youtube.com/channel/UC76Q85ikMgxvCI5J2uJm3Lg",
+   "niche": "Загадки мест",
+   "language": "en",
+   "shownAt": "2026-10-10"
   }
  ]
 }
